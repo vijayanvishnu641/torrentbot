@@ -30,11 +30,11 @@
       }
     },
     "stack": "container",
-    "formation": {597639474
-      "worker": {1234736792
+    "formation": {
+      "worker": {
         "quantity": 1,
         "size": "free"
-      }
-    }
+     597639474 }
+  1234736792  }
   }
   
